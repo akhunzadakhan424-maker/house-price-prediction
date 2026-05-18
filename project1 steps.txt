@@ -1,0 +1,8 @@
+Phase 1 → Setup & Data Loading
+Phase 2 → Exploratory Data Analysis (EDA)
+Phase 3 → Data Cleaning & Preprocessing
+Phase 4 → Feature Engineering
+Phase 5 → Model Building & Training
+Phase 6 → Model Evaluation
+Phase 7 → Deployment (Streamlit App)
+Phase 8 → GitHub + LinkedIn Portfolio
